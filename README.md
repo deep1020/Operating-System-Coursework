@@ -3,7 +3,11 @@ This repository contains a collection of programs written in C++ that demonstrat
 
 ## Contents
 Process Management: Programs demonstrating process creation, termination, and communication.
+
 IPC (Inter-Process Communication): Examples of communication between processes using different IPC mechanisms such as pipes, message queues, and shared memory.
+
 Threading: Programs showcasing multi-threading concepts including thread creation, synchronization, and communication.
+
 Synchronization: Examples illustrating synchronization techniques such as mutexes, semaphores, and condition variables.
+
 Socket Programming: Programs demonstrating network communication using sockets, including TCP/IP and UDP protocols.
