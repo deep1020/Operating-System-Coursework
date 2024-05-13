@@ -11,3 +11,14 @@ Threading: Programs showcasing multi-threading concepts including thread creatio
 Synchronization: Examples illustrating synchronization techniques such as mutexes, semaphores, and condition variables.
 
 Socket Programming: Programs demonstrating network communication using sockets, including TCP/IP and UDP protocols.
+
+## How to run C++ program in terminal?
+1. Clone the repository to your local machine.
+git clone https://github.com/deep1020/Operating-System-Coursework.git
+2. Navigate to the directory of the program you want to explore:
+cd your_repository
+3. Compile the program using a C++ compiler:
+g++ program_name.cpp -o program_name
+4. Run the compiled executable:
+./program_name
+
